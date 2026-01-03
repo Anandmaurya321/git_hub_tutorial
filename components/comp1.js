@@ -1,0 +1,1 @@
+console.log("component page  1")
